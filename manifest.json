@@ -1,18 +1,18 @@
 {
-  "short_name": "السوفعي",
+  "short_name": "نظام السوفعي",
   "name": "نظام مياه السوفعي 2026",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/192/3105/3105807.png",
-      "sizes": "192x192",
+      "src": "https://cdn-icons-png.flaticon.com/512/2004/2004699.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3105/3105807.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/2004/2004699.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "maskable"
     }
   ],
   "start_url": "./index.html",
